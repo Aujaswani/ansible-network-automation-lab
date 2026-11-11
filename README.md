@@ -1,1 +1,0 @@
-# ansible-network-automation-lab
